@@ -42,7 +42,7 @@ project_root/
 ├── setup.md                         # Hướng dẫn cài đặt
 ├── README.md                        # Tài liệu dự án
 ├── FRAME_DATASET/                   # Dataset chính
-│   ├── train/                       # Dữ liệu training (5 người)
+│   ├── train/                       # Dữ liệu training (6 người)
 │   ├── val/                         # Dữ liệu validation
 │   └── test/                        # Dữ liệu testing
 └── evaluation_results/               # Kết quả đánh giá
