@@ -1,0 +1,6 @@
+numpy
+opencv-python
+tqdm
+insightface
+scikit-learn
+pickle-mixin
