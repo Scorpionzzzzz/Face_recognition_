@@ -1,0 +1,61 @@
+{
+    "accuracy": 0.9977924944812362,
+    "balanced_accuracy": 0.9976851851851851,
+    "cohen_kappa": 0.9971890241632227,
+    "rank_1": 0.9977924944812362,
+    "rank_5": 1.0,
+    "eer": 0.000938690210247561,
+    "tar_far_1e3": 0.9991226195795049,
+    "tar_far_1e4": 0.9987438243426122,
+    "classification_report": {
+        "DOAN_HUU_DUC": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 85.0
+        },
+        "NGUYEN_GIA_DUONG": {
+            "precision": 1.0,
+            "recall": 0.9861111111111112,
+            "f1-score": 0.993006993006993,
+            "support": 72.0
+        },
+        "NGUYEN_KE_LUONG": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 73.0
+        },
+        "NGUYEN_THI_ANH_LY": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 18.0
+        },
+        "TRAN_TRONG_KHANG": {
+            "precision": 0.9934640522875817,
+            "recall": 1.0,
+            "f1-score": 0.9967213114754099,
+            "support": 152.0
+        },
+        "TRIEU_HUY_MANH": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 53.0
+        },
+        "accuracy": 0.9977924944812362,
+        "macro avg": {
+            "precision": 0.9989106753812637,
+            "recall": 0.9976851851851851,
+            "f1-score": 0.9982880507470672,
+            "support": 453.0
+        },
+        "weighted avg": {
+            "precision": 0.9978069226218818,
+            "recall": 0.9977924944812362,
+            "f1-score": 0.9977883947919775,
+            "support": 453.0
+        }
+    }
+}
