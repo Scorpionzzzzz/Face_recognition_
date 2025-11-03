@@ -4,3 +4,8 @@ tqdm
 insightface
 scikit-learn
 pickle-mixin
+PyQt5
+pandas
+onnxruntime-gpu
+matplotlib
+easydict
