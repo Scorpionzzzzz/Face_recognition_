@@ -18,7 +18,7 @@ import pickle
 import glob
 
 # Tìm thư mục evaluation mới nhất (đi ra ngoài thư mục src/)
-eval_dirs = glob.glob("../evaluation_results/evaluation_*")
+eval_dirs = glob.glob("./evaluation_results/evaluation_*")
 if not eval_dirs:
     raise FileNotFoundError("Không tìm thấy thư mục evaluation_results!")
 
